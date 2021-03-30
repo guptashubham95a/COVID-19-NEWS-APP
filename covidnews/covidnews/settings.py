@@ -25,7 +25,7 @@ SECRET_KEY = '_rsgl#*=s_2!k*&$b1hs%nptw$ekvg@l7^%@y3)u%i@et93&x_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ["http://127.0.0.1:8000"]
+ALLOWED_HOSTS = ["http://127.0.0.1:8000","covid19-news1.herokuapp.com"]
 
 
 # Application definition
